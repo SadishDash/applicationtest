@@ -1,1 +1,2 @@
 FileB
+file B is changed
